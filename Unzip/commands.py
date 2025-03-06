@@ -15,11 +15,11 @@ async def start(client, message):
     reply_markup = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton("📍 Update Channel", url="https://t.me/NT_BOT_CHANNEL"),
+            InlineKeyboardButton("📢 Update Channel", url="https://t.me/SDC_BOTS"),
         ],
         [
-            InlineKeyboardButton("👥 Support Group", url="https://t.me/NT_BOTS_SUPPORT"),
-            InlineKeyboardButton("👩‍💻 Developer", url="https://t.me/LISA_FAN_LK"),
+            InlineKeyboardButton("👥 Support Group", url="https://t.me/+ojaSicWMFvU4MjJl"),
+            InlineKeyboardButton("👩‍💻 Developer", url="https://t.me/Unlimitedpr_bot"),
         ] 
    ]
   )
